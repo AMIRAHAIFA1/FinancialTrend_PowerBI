@@ -1,7 +1,7 @@
 # Financial Trend Dashboard
 ## Objective
 Design and develop an interactive Financial Trend Dashboard to help stakeholders monitor sales, profit, margin trends, product performance, geographical distribution and customer segment. This dashboard allows executives to optimize sales, spot underperforming products and align strategy with profit with profit driven insights. 
-
+![image alt](https://github.com/AMIRAHAIFA1/FinancialTrend_PowerBI/blob/main/Dashboard%20Screenshot.png)
 ## Key Insights 
 - Time Series Analysis: Tracked monthly sales and profit trends to identify seasonal peaks. 
 - Product Performance: Compared total sales vs. profit per product by highlighting high revenue but low margin items.
